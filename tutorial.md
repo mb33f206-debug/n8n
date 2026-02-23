@@ -216,7 +216,7 @@ Duplicate 視窗會帶入模板的預設值，**紅框處為你需要修改的�
 
 第一次編譯需要一段時間，請耐心等待。當 Logs 出現以下訊息，代表部署成功：
 
-```
+```text
 Editor is now accessible via:
 https://<你的帳號>-n8n-free.hf.space
 ```
