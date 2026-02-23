@@ -1,6 +1,3 @@
-<!--
-  HackMD 自訂字體（GitHub 會自動忽略此區塊，不影響顯示）
--->
 <style>
 @import url("https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC:wght@300;400;700&display=swap");
 .markdown-body {
