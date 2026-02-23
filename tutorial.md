@@ -1,14 +1,27 @@
 <!--
   HackMD 自訂字體（GitHub 會自動忽略此區塊，不影響顯示）
 -->
-<link href="https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap" rel="stylesheet">
-<link href="https://cdn.jsdelivr.net/npm/@chinese-fonts/maple-mono-cn@2.0.0/dist/MapleMono-CN-SemiBold/result.min.css" rel="stylesheet">
 <style>
+@import url("https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC:wght@300;400;700&display=swap");
 .markdown-body {
-  font-family: 'Maple Mono CN', 'LXGW WenKai TC', sans-serif;
+  font-family: "Times New Roman", "LXGW WenKai TC", serif;
+  font-size: 16px;
+  line-height: 1.9;
 }
-code, pre {
-  font-family: 'Maple Mono CN', monospace;
+.markdown-body h1, .markdown-body h2, .markdown-body h3 {
+  font-family: "LXGW WenKai TC", "Times New Roman", serif;
+  font-weight: 700;
+}
+.markdown-body blockquote {
+  border-left: 4px solid #6c5ce7;
+  background: #f8f9fa;
+  padding: 12px 20px;
+}
+.markdown-body code {
+  font-family: "Cascadia Code", "Fira Code", monospace;
+}
+.markdown-body table {
+  font-size: 15px;
 }
 </style>
 
