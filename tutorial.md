@@ -1,14 +1,14 @@
 <!--
   HackMD 自訂字體（GitHub 會自動忽略此區塊，不影響顯示）
 -->
+<link href="https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/@chinese-fonts/maple-mono-cn@2.0.0/dist/MapleMono-CN-SemiBold/result.min.css" rel="stylesheet">
 <style>
-@import url('https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC&display=swap');
-
 .markdown-body {
-  font-family: 'LXGW WenKai TC', sans-serif;
+  font-family: 'Maple Mono CN', 'LXGW WenKai TC', sans-serif;
 }
 code, pre {
-  font-family: 'Maple Mono', 'Fira Code', monospace;
+  font-family: 'Maple Mono CN', monospace;
 }
 </style>
 
